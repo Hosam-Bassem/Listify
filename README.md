@@ -18,8 +18,8 @@ A modern and minimalist to-do list application built using **React**, with persi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/tasknest.git
-   cd tasknest
+   git clone https://github.com/Hosam-Bassem/Listify.git
+   cd Listify
    ```
 
 2. **Install dependencies**
@@ -48,7 +48,7 @@ Visit the app at: [http://localhost:3000](http://localhost:3000)
 ## 📁 Project Structure
 
 ```
-tasknest/
+root/
 ├── data/
 │   └── db.json             # JSON Server mock database
 ├── src/
@@ -79,11 +79,3 @@ tasknest/
 - Minimalist, component-driven UI structure
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-> Built with ❤️ to learn and practice modern React development.
